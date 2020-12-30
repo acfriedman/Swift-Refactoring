@@ -4,5 +4,6 @@
         <page name='Extract and Override Factory Method'/>
         <page name='Extract and Override Call'/>
         <page name='Parameterize Constructor'/>
+        <page name='Replace Global Reference With Getter'/>
     </pages>
 </playground>
