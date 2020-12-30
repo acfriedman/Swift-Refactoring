@@ -1,7 +1,7 @@
 import Foundation
 
 // Extract and Override Call
-// See: Working Effectively W. Legacy Code, Part III, Chapter 25, Extract and Override Call
+// See: Working Effectively W. Legacy Code, Chapter 25, Extract and Override Call
 
 
 /**
